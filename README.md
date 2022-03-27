@@ -14,6 +14,7 @@ Everything here is absolutely, completely, 100% free, but if you want to support
 ## !! The only system supported is D&D5e
 
 ### Requirements:
+- JB2A (Patreon)
 - Advanced Macros
 - Sequencer
 - ItemPiles
