@@ -28,11 +28,11 @@ First, create a macro inside your game, the name can be enything but I recommend
 
 Now go to the item that is going to call the macro and place the name of the macro here:
 
-![](images/MacroLocation.png)
+![](Images/MacroLocation.png)
 
 Next select when the macro is going to be called:
 
-![](images/MacroCall.png)
+![](Images/MacroCall.png)
 
 Note that the macro call depends on the type of the item. Here is a table to help you selecting the right one:
 
